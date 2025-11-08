@@ -5,6 +5,12 @@ Note (Context): I completed this activity after I was no longer a student of the
 ## Overview
 Simple Spring Boot API to list horror books. Data is loaded from a JSON file and kept in memory.
 
+Get by ID
+<img width="753" height="468" alt="image" src="https://github.com/user-attachments/assets/72faafae-6b23-4487-b208-a65b93efc929" />
+
+Get All Books
+<img width="803" height="1019" alt="image" src="https://github.com/user-attachments/assets/110e2c26-92f5-4691-b2de-07308ae663af" />
+
 ## Requirements
 - `Java 21` and `Maven 3.9+`
 - IntelliJ IDEA (optional) with SDK set to `Java 21`
