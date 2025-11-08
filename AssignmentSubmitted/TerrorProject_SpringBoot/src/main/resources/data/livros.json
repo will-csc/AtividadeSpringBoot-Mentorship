@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "titulo": "It: A Coisa",
+    "autor": "Stephen King",
+    "anoPublicacao": 1986,
+    "genero": "Terror",
+    "paginas": 1138,
+    "editora": "Viking",
+    "idioma": "Português",
+    "classificacao": 4.7,
+    "sinopse": "Um mal ancestral aterroriza Derry e retorna a cada 27 anos."
+  },
+  {
+    "id": 2,
+    "titulo": "O Exorcista",
+    "autor": "William Peter Blatty",
+    "anoPublicacao": 1971,
+    "genero": "Terror",
+    "paginas": 400,
+    "editora": "Harper & Row",
+    "idioma": "Português",
+    "classificacao": 4.6,
+    "sinopse": "Uma possessão demoníaca e a luta da Igreja para salvar uma menina."
+  },
+  {
+    "id": 3,
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "anoPublicacao": 1897,
+    "genero": "Terror Gótico",
+    "paginas": 418,
+    "editora": "Archibald Constable",
+    "idioma": "Português",
+    "classificacao": 4.5,
+    "sinopse": "O conde vampiro tenta expandir seu reino na Inglaterra."
+  },
+  {
+    "id": 4,
+    "titulo": "O Iluminado",
+    "autor": "Stephen King",
+    "anoPublicacao": 1977,
+    "genero": "Terror Psicológico",
+    "paginas": 447,
+    "editora": "Doubleday",
+    "idioma": "Português",
+    "classificacao": 4.8,
+    "sinopse": "Um hotel isolado e forças sobrenaturais que levam um pai à loucura."
+  },
+  {
+    "id": 5,
+    "titulo": "A Cor que Caiu do Espaço",
+    "autor": "H.P. Lovecraft",
+    "anoPublicacao": 1927,
+    "genero": "Horror Cósmico",
+    "paginas": 48,
+    "editora": "Amazing Stories",
+    "idioma": "Português",
+    "classificacao": 4.3,
+    "sinopse": "Uma cor alienígena altera uma fazenda e enlouquece seus moradores."
+  },
+  {
+    "id": 6,
+    "titulo": "Entrevista com o Vampiro",
+    "autor": "Anne Rice",
+    "anoPublicacao": 1976,
+    "genero": "Fantasia/Terror",
+    "paginas": 371,
+    "editora": "Knopf",
+    "idioma": "Português",
+    "classificacao": 4.2,
+    "sinopse": "A confissão de um vampiro através dos séculos."
+  },
+  {
+    "id": 7,
+    "titulo": "O Chamado de Cthulhu",
+    "autor": "H.P. Lovecraft",
+    "anoPublicacao": 1928,
+    "genero": "Horror Cósmico",
+    "paginas": 43,
+    "editora": "Weird Tales",
+    "idioma": "Português",
+    "classificacao": 4.4,
+    "sinopse": "Cultos e pesadelos de uma entidade ancestral adormecida."
+  },
+  {
+    "id": 8,
+    "titulo": "A Assombração da Casa da Colina",
+    "autor": "Shirley Jackson",
+    "anoPublicacao": 1959,
+    "genero": "Terror Psicológico",
+    "paginas": 246,
+    "editora": "Viking",
+    "idioma": "Português",
+    "classificacao": 4.1,
+    "sinopse": "Uma casa maldita e seus efeitos em um grupo de visitantes."
+  },
+  {
+    "id": 9,
+    "titulo": "O Médico e o Monstro",
+    "autor": "Robert Louis Stevenson",
+    "anoPublicacao": 1886,
+    "genero": "Terror/Drama",
+    "paginas": 141,
+    "editora": "Longmans, Green & Co.",
+    "idioma": "Português",
+    "classificacao": 4.0,
+    "sinopse": "A dualidade do homem revelada em uma terrível transformação."
+  },
+  {
+    "id": 10,
+    "titulo": "O Cemitério",
+    "autor": "Stephen King",
+    "anoPublicacao": 1983,
+    "genero": "Terror",
+    "paginas": 560,
+    "editora": "Doubleday",
+    "idioma": "Português",
+    "classificacao": 4.6,
+    "sinopse": "Uma terra amaldiçoada onde mortos retornam de forma perturbadora."
+  }
+]
